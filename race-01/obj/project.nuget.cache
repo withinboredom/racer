@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bl9kA7zklqPSzwTi3OvhusBfN4d7kJDF664DKdfG1gjR7kU/BRuWLVcoI82KUGC6dTD50qZWYEESwJeGg3/zoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lande\\source\\repos\\racer-csharp\\race-01\\race-01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lande\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.0\\microsoft.visualstudio.azure.containers.tools.targets.1.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

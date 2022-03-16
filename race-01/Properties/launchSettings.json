@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "race-01": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
